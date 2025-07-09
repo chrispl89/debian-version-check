@@ -26,7 +26,7 @@ This simple script automates the whole process - it remotely connects to a list 
 
 2 Run the script:
 
-`.\debian_version.ps1`
+`.\debian-version-check.ps1`
 
 When the script finishes, the data will be saved in `debian_versions.csv`.
 
